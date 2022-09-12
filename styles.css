@@ -1,0 +1,15 @@
+/* tag selectors */
+
+  body{background-color: #CBF1F5}
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #A6E3E9;
+    border-width: 2px;
+      }
+  h1 {color: #00ADB5}
+  h3 {color: #00ADB5}
+
+/* class selectors */
+
+.socialmedia:hover {color: #393E46}
